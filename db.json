@@ -1,0 +1,382 @@
+{
+  "products": [
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "iPhone 9 - 2",
+      "category": "smartphones",
+      "price": 1003,
+      "createdAt": "12/15/2022, 4:24:34 PM",
+      "id": 1
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "name": "iPhone X",
+      "category": "smartphones",
+      "price": 899,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 2
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "name": "Samsung Universe 9",
+      "category": "smartphones",
+      "price": 1249,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 3
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "OPPOF19",
+      "category": "smartphones",
+      "price": 28031,
+      "createdAt": "13/12/2022 17:58:11",
+      "id": 4
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "name": "Huawei P30",
+      "category": "smartphones",
+      "price": 499,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 5
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "MacBook Pro 2",
+      "category": "tops",
+      "price": 1749,
+      "createdAt": "13/12/2022 17:44:24",
+      "id": 6
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+      "name": "Samsung Galaxy Book",
+      "category": "laptops",
+      "price": 1499,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 7
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "name": "Microsoft Surface Laptop 4",
+      "category": "laptops",
+      "price": 1499,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 8
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+      "name": "Infinix INBOOK",
+      "category": "laptops",
+      "price": 1099,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 9
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+      "name": "HP Pavilion 15-DK1056WM",
+      "category": "laptops",
+      "price": 1099,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 10
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+      "name": "perfume Oil",
+      "category": "fragrances",
+      "price": 13,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 11
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+      "name": "Brown Perfume",
+      "category": "fragrances",
+      "price": 40,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 12
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+      "name": "Fog Scent Xpressio Perfume",
+      "category": "fragrances",
+      "price": 13,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 13
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+      "name": "Non-Alcoholic Concentrated Perfume Oil",
+      "category": "fragrances",
+      "price": 120,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 14
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+      "name": "Eau De Perfume Spray",
+      "category": "fragrances",
+      "price": 30,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 15
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+      "name": "Hyaluronic Acid Serum",
+      "category": "skincare",
+      "price": 19,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 16
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+      "name": "Tree Oil 30ml",
+      "category": "skincare",
+      "price": 12,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 17
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+      "name": "Oil Free Moisturizer 100ml",
+      "category": "skincare",
+      "price": 40,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 18
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+      "name": "Skin Beauty Serum.",
+      "category": "skincare",
+      "price": 46,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 19
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+      "name": "Freckle Treatment Cream- 15gm",
+      "category": "skincare",
+      "price": 70,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 20
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/21/thumbnail.png",
+      "name": "- Daal Masoor 500 grams",
+      "category": "groceries",
+      "price": 20,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 21
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+      "name": "Elbow Macaroni - 400 gm",
+      "category": "groceries",
+      "price": 14,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 22
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+      "name": "Orange Essence Food Flavou",
+      "category": "groceries",
+      "price": 14,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 23
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+      "name": "cereals muesli fruit nuts",
+      "category": "groceries",
+      "price": 46,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 24
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+      "name": "Gulab Powder 50 Gram",
+      "category": "groceries",
+      "price": 70,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 25
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+      "name": "Plant Hanger For Home",
+      "category": "home-decoration",
+      "price": 41,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 26
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+      "name": "Flying Wooden Bird",
+      "category": "home-decoration",
+      "price": 51,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 27
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+      "name": "3D Embellishment Art Lamp",
+      "category": "home-decoration",
+      "price": 20,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 28
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
+      "name": "Handcraft Chinese style",
+      "category": "home-decoration",
+      "price": 60,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 29
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+      "name": "Key Holder",
+      "category": "home-decoration",
+      "price": 30,
+      "createdAt": "01/12/2022 11:20:31",
+      "id": 30
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "Teste",
+      "category": "laptops",
+      "price": "32",
+      "createdAt": "06/12/2022 11:56:07",
+      "id": 31
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "pokemon",
+      "category": "skincare",
+      "price": "056",
+      "createdAt": "06/12/2022",
+      "id": 32
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "Motorola E7 Plus",
+      "category": "smartphones",
+      "price": "1500",
+      "createdAT": "06/12/2022 12:02:41",
+      "id": 33
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "Algum Produto Teste",
+      "category": "smartphones",
+      "price": "3131",
+      "createdAt": "13/12/2022 15:08:05",
+      "id": 34
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "iPhone 9",
+      "category": "smartphones",
+      "price": 549,
+      "createdAt": "13/12/2022",
+      "id": 35
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "name": "sem ray",
+      "category": "mens-watches",
+      "price": "1",
+      "createdAt": "13/12/2022",
+      "id": 36
+    },
+    {
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "name": "legal :D",
+      "category": "laptops",
+      "price": 121.12,
+      "createdAt": "13/12/2022 17:55:43",
+      "id": 37
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "smartphones"
+    },
+    {
+      "id": 2,
+      "name": "laptops"
+    },
+    {
+      "id": 3,
+      "name": "fragrances"
+    },
+    {
+      "id": 4,
+      "name": "skincare"
+    },
+    {
+      "id": 5,
+      "name": "groceries"
+    },
+    {
+      "id": 6,
+      "name": "home-decoratio"
+    },
+    {
+      "id": 7,
+      "name": "furniture"
+    },
+    {
+      "id": 8,
+      "name": "tops"
+    },
+    {
+      "id": 9,
+      "name": "womens-dresses"
+    },
+    {
+      "id": 10,
+      "name": "womens-shoes"
+    },
+    {
+      "id": 11,
+      "name": "mens-shirts"
+    },
+    {
+      "id": 12,
+      "name": "mens-shoes"
+    },
+    {
+      "id": 13,
+      "name": "mens-watches"
+    },
+    {
+      "id": 14,
+      "name": "womens-watches"
+    },
+    {
+      "id": 15,
+      "name": "womens-bags"
+    },
+    {
+      "id": 16,
+      "name": "womens-jewellery"
+    },
+    {
+      "id": 17,
+      "name": "sunglasses"
+    },
+    {
+      "id": 18,
+      "name": "automotive"
+    },
+    {
+      "id": 19,
+      "name": "motorcycle"
+    },
+    {
+      "id": 20,
+      "name": "lighting"
+    }
+  ]
+}
